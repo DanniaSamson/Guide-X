@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Sky Serve
 
-# Run and deploy your AI Studio app
+AI-powered drone food delivery platform for urban Kerala with smart route optimization and live tracking.
 
-This contains everything you need to run your app locally.
+## Team
+Developed by **Guide-X**
 
-View your app in AI Studio: https://ai.studio/apps/ebe873e1-5587-443a-b95f-f1f1dfbfcdd1
+## Features
+- **Smart Route Optimization:** AI-driven pathfinding for the fastest delivery.
+- **Live Tracking:** Real-time drone tracking with precision location data.
+- **Advanced Scheduling:** Pick your preferred time slot for delivery.
+- **Secure Payments:** Integrated UPI, Card, and Credit payment options.
+- **Privacy First:** End-to-end encryption for all customer data.
 
-## Run Locally
+## Tech Stack
+- **Frontend:** React, TypeScript, Tailwind CSS, Motion
+- **Icons:** Lucide React
+- **Build Tool:** Vite
 
-**Prerequisites:**  Node.js
+## Getting Started
 
+### Prerequisites
+- Node.js (v18+)
+- npm
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Installation
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
