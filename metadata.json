@@ -1,5 +1,5 @@
 {
-  "name": "SkyServe Kerala",
+  "name": "Sky Serve",
   "description": "AI-powered drone food delivery platform for urban Kerala with smart route optimization and live tracking.",
   "requestFramePermissions": ["geolocation"]
 }
