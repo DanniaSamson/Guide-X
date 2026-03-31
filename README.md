@@ -18,6 +18,7 @@ Developed by **Guide-X**
 - **Build Tool:** Vite
 
 ## Getting Started
+[Watch Demo](https://drive.google.com/drive/folders/1eDmjIRXvQ2_CnStQ-ApRkMmoM1tpjH23?usp=sharing)
 
 ### Prerequisites
 - Node.js (v18+)
